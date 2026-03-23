@@ -2,4 +2,5 @@
 org = "ballerinax"
 name = "client.config"
 version = "1.0.1"
+keywords = ["Type/Other", "Area/Developer Tools"]
 distribution = "2201.2.0"
