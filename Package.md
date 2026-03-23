@@ -1,7 +1,12 @@
-Contains client config utils and Ballerina types for ballerinax connectors.
+## Overview
 
-## Package overview
-The `ballerinax/client.config` is a [Ballerina](https://ballerina.io/) library which contains common client config utils and Ballerina types for Ballerinax connectors.
+The Client Config library contains common client configuration utilities and types for connectors.
+
+### Key Features
+
+- Common client configuration types shared across connectors
+- Reusable utility functions for client initialization
+- Standardized configuration patterns for connector development
 
 ### Compatibility
 |                     | Version            |
